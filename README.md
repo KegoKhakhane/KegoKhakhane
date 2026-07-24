@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋 I'm Kegomoditswe, but you can call me Kego 
 
-<!--
-**KegoKhakhane/KegoKhakhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development Engineer in Test (SDET) who enjoys building reliable test automation frameworks and learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Playwright
+- Selenium
+- REST Assured
+- Cucumber & TestNG
+- SQL
+- GitHub Actions
+- Jenkins
+- Docker
+- AWS
+
+## 🚀 What I'm working on
+
+- Building Playwright UI & API automation frameworks
+- Integrating automation into CI/CD pipelines
+- Improving my cloud skills with AWS
+
+## 📚 Currently learning
+
+- Kubernetes
+- Terraform
+- Advanced AWS
+- DevOps best practices
+
