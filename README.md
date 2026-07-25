@@ -2,29 +2,41 @@
 
 I'm a Software Development Engineer in Test (SDET) who enjoys building reliable test automation frameworks and learning new technologies.
 
-## 💻 What I work with
+## 🚀 Featured Projects
 
-- Java
-- Playwright
-- Selenium
-- REST Assured
-- Cucumber & TestNG
-- SQL
-- GitHub Actions
-- Jenkins
-- Docker
-- AWS
+🧪 Playwright API Framework
 
-## 🚀 What I'm working on
+Coming Soon
 
-- Building Playwright UI & API automation frameworks
-- Integrating automation into CI/CD pipelines
-- Improving my cloud skills with AWS
+🧪 Playwright UI Framework
 
-## 📚 Currently learning
+Coming Soon
 
-- Kubernetes
-- Terraform
-- Advanced AWS
-- DevOps best practices
+☁️ AWS Labs
+
+Coming Soon
+
+⚙️ GitHub Actions
+
+Coming Soon
+
+## 💻 Tech Stack
+
+Java
+C#
+Playwright
+REST Assured
+Selenium
+TestNG
+Cucumber
+Docker
+AWS
+
+---
+
+## 📚 Currently Learning
+
+AWS
+Kubernetes
+DevOps
 
